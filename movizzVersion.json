@@ -1,6 +1,6 @@
 {
-  "versionName":"1.0",
-  "apkUrl":"https://firebasestorage.googleapis.com/v0/b/stunning-net-355013.appspot.com/o/movizz.apk?alt=media&token=ee603b6a-704f-4b03-82fb-3d435893fdfc",
-  "forceUpdate": false,
-  "whatsNew": "<< what changes the app update will bring >>"
+  "versionName":"999.0.0",
+  "versionCode": "998",
+  "apkUrl":"https://github.com/mikehardy/react-native-update-apk/releases/download/v3.0.1/rn-update-apk-example-3.0.1.apk",
+  "forceUpdate": false
 }
