@@ -3,4 +3,5 @@
   "versionCode": "998",
   "apkUrl":"https://github.com/mikehardy/react-native-update-apk/releases/download/v3.0.1/rn-update-apk-example-3.0.1.apk",
   "forceUpdate":false,
+  "whatsNew": "<< what changes the app update will bring >>"
 }
